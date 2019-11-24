@@ -9,7 +9,7 @@ export default function App() {
       <div className="container">
         <Weather />
         <footer>
-          This project was codded by{" "}
+          This project was coded by{" "}
           <a
             href="https://www.instagram.com/margaridamedina.costa/"
             target="_blank"
